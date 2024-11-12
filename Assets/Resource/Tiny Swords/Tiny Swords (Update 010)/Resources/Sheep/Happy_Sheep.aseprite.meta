@@ -430,7 +430,7 @@ ScriptedImporter:
     layerType: 0
     blendMode: 0
     cells:
-    - name: Frame_0
+    - name: Happy_Sheep_Frame_0
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
@@ -439,7 +439,7 @@ ScriptedImporter:
         width: 43
         height: 38
       spriteId: f7e5dd26dae36bb47a369219e6b2806c
-    - name: Frame_1
+    - name: Happy_Sheep_Frame_1
       frameIndex: 1
       additiveSortOrder: 0
       cellRect:
@@ -448,7 +448,7 @@ ScriptedImporter:
         width: 43
         height: 38
       spriteId: 5da24af5913f7f1488f2bf08cc4d4b85
-    - name: Frame_2
+    - name: Happy_Sheep_Frame_2
       frameIndex: 2
       additiveSortOrder: 0
       cellRect:
@@ -457,7 +457,7 @@ ScriptedImporter:
         width: 43
         height: 38
       spriteId: 124886edb5a0d5245befa99ff7accdfb
-    - name: Frame_3
+    - name: Happy_Sheep_Frame_3
       frameIndex: 3
       additiveSortOrder: 0
       cellRect:
@@ -466,7 +466,7 @@ ScriptedImporter:
         width: 43
         height: 38
       spriteId: d840bcc5a22b9364fbf2f021cf5402f3
-    - name: Frame_4
+    - name: Happy_Sheep_Frame_4
       frameIndex: 4
       additiveSortOrder: 0
       cellRect:
@@ -475,7 +475,7 @@ ScriptedImporter:
         width: 43
         height: 37
       spriteId: 292b47b230f029b4286be373311c5ab7
-    - name: Frame_5
+    - name: Happy_Sheep_Frame_5
       frameIndex: 5
       additiveSortOrder: 0
       cellRect:
@@ -484,7 +484,7 @@ ScriptedImporter:
         width: 46
         height: 36
       spriteId: 2fcc814ee3fa93f4b9aee28fbddc4534
-    - name: Frame_6
+    - name: Happy_Sheep_Frame_6
       frameIndex: 6
       additiveSortOrder: 0
       cellRect:
@@ -493,7 +493,7 @@ ScriptedImporter:
         width: 46
         height: 36
       spriteId: 2b6060b3647767e45bb6a05543ab7306
-    - name: Frame_7
+    - name: Happy_Sheep_Frame_7
       frameIndex: 7
       additiveSortOrder: 0
       cellRect:
@@ -502,7 +502,7 @@ ScriptedImporter:
         width: 44
         height: 37
       spriteId: b7f565249d7ad974bb6f1cdb5a201752
-    - name: Frame_8
+    - name: Happy_Sheep_Frame_8
       frameIndex: 8
       additiveSortOrder: 0
       cellRect:
@@ -511,7 +511,7 @@ ScriptedImporter:
         width: 43
         height: 38
       spriteId: a45d00e9fd168604a9dc3966e6cc0c01
-    - name: Frame_9
+    - name: Happy_Sheep_Frame_9
       frameIndex: 9
       additiveSortOrder: 0
       cellRect:
@@ -520,7 +520,7 @@ ScriptedImporter:
         width: 43
         height: 38
       spriteId: ffe80b223174b6c43a68b55342d4c445
-    - name: Frame_10
+    - name: Happy_Sheep_Frame_10
       frameIndex: 10
       additiveSortOrder: 0
       cellRect:
@@ -529,7 +529,7 @@ ScriptedImporter:
         width: 38
         height: 48
       spriteId: 114332f482a26b94380797f69c1f8164
-    - name: Frame_11
+    - name: Happy_Sheep_Frame_11
       frameIndex: 11
       additiveSortOrder: 0
       cellRect:
@@ -538,7 +538,7 @@ ScriptedImporter:
         width: 45
         height: 50
       spriteId: 8ee5ed0cb5c9f5b4b83d91347f726873
-    - name: Frame_12
+    - name: Happy_Sheep_Frame_12
       frameIndex: 12
       additiveSortOrder: 0
       cellRect:
@@ -547,7 +547,7 @@ ScriptedImporter:
         width: 45
         height: 51
       spriteId: eb0b32eb62a0b8b458bb5713eaae4fea
-    - name: Frame_13
+    - name: Happy_Sheep_Frame_13
       frameIndex: 13
       additiveSortOrder: 0
       cellRect:
@@ -556,7 +556,7 @@ ScriptedImporter:
         width: 45
         height: 45
       spriteId: f4d8187b0a5dd094cacdbba81b84b404
-    - name: Frame_14
+    - name: Happy_Sheep_Frame_14
       frameIndex: 14
       additiveSortOrder: 0
       cellRect:

@@ -1110,7 +1110,7 @@ ScriptedImporter:
     layerType: 0
     blendMode: 0
     cells:
-    - name: Frame_0
+    - name: Warrior_Purple_Frame_0
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
@@ -1119,7 +1119,7 @@ ScriptedImporter:
         width: 78
         height: 91
       spriteId: 9f1ec06519befb341b731db0273bb3e2
-    - name: Frame_1
+    - name: Warrior_Purple_Frame_1
       frameIndex: 1
       additiveSortOrder: 0
       cellRect:
@@ -1128,7 +1128,7 @@ ScriptedImporter:
         width: 78
         height: 91
       spriteId: 6f5b192c41b591549afab59570c19031
-    - name: Frame_2
+    - name: Warrior_Purple_Frame_2
       frameIndex: 2
       additiveSortOrder: 0
       cellRect:
@@ -1137,7 +1137,7 @@ ScriptedImporter:
         width: 78
         height: 91
       spriteId: f5e618c28c447f4449f147b664652ddd
-    - name: Frame_3
+    - name: Warrior_Purple_Frame_3
       frameIndex: 3
       additiveSortOrder: 0
       cellRect:
@@ -1146,7 +1146,7 @@ ScriptedImporter:
         width: 80
         height: 89
       spriteId: 5f9c49096a8af174db8ee94fb7d4d087
-    - name: Frame_4
+    - name: Warrior_Purple_Frame_4
       frameIndex: 4
       additiveSortOrder: 0
       cellRect:
@@ -1155,7 +1155,7 @@ ScriptedImporter:
         width: 80
         height: 87
       spriteId: 318bc1f54780d104284daa6b7d68e3c4
-    - name: Frame_5
+    - name: Warrior_Purple_Frame_5
       frameIndex: 5
       additiveSortOrder: 0
       cellRect:
@@ -1164,7 +1164,7 @@ ScriptedImporter:
         width: 78
         height: 88
       spriteId: 58dd1d29efadb1841bf3c0206d6b356d
-    - name: Frame_6
+    - name: Warrior_Purple_Frame_6
       frameIndex: 6
       additiveSortOrder: 0
       cellRect:
@@ -1173,7 +1173,7 @@ ScriptedImporter:
         width: 78
         height: 91
       spriteId: 195e36048afec9a4bb261a2e00a5cfd4
-    - name: Frame_7
+    - name: Warrior_Purple_Frame_7
       frameIndex: 7
       additiveSortOrder: 0
       cellRect:
@@ -1182,7 +1182,7 @@ ScriptedImporter:
         width: 60
         height: 93
       spriteId: ed7e8d54e7a51324292ddf8502e7131f
-    - name: Frame_8
+    - name: Warrior_Purple_Frame_8
       frameIndex: 8
       additiveSortOrder: 0
       cellRect:
@@ -1191,7 +1191,7 @@ ScriptedImporter:
         width: 69
         height: 94
       spriteId: fbc42e0269080ba4aa5e833c7f9c3acb
-    - name: Frame_9
+    - name: Warrior_Purple_Frame_9
       frameIndex: 9
       additiveSortOrder: 0
       cellRect:
@@ -1200,7 +1200,7 @@ ScriptedImporter:
         width: 78
         height: 80
       spriteId: 6bac1013cd162504cb2ad14dae237af8
-    - name: Frame_10
+    - name: Warrior_Purple_Frame_10
       frameIndex: 10
       additiveSortOrder: 0
       cellRect:
@@ -1209,7 +1209,7 @@ ScriptedImporter:
         width: 95
         height: 93
       spriteId: 9c6b00276a88a2a4d916829575975813
-    - name: Frame_11
+    - name: Warrior_Purple_Frame_11
       frameIndex: 11
       additiveSortOrder: 0
       cellRect:
@@ -1218,7 +1218,7 @@ ScriptedImporter:
         width: 89
         height: 94
       spriteId: d71238944055aa54e8bab52eee85b021
-    - name: Frame_12
+    - name: Warrior_Purple_Frame_12
       frameIndex: 12
       additiveSortOrder: 0
       cellRect:
@@ -1227,7 +1227,7 @@ ScriptedImporter:
         width: 79
         height: 80
       spriteId: 7bd6e87c704402b4b85ac10d99233b8a
-    - name: Frame_13
+    - name: Warrior_Purple_Frame_13
       frameIndex: 13
       additiveSortOrder: 0
       cellRect:
@@ -1236,7 +1236,7 @@ ScriptedImporter:
         width: 71
         height: 108
       spriteId: 308261e21447d634aa87ab3371d84af8
-    - name: Frame_14
+    - name: Warrior_Purple_Frame_14
       frameIndex: 14
       additiveSortOrder: 0
       cellRect:
@@ -1245,7 +1245,7 @@ ScriptedImporter:
         width: 71
         height: 112
       spriteId: 48e8178b8c0ff0a4fb64ec3ec4c99cae
-    - name: Frame_15
+    - name: Warrior_Purple_Frame_15
       frameIndex: 15
       additiveSortOrder: 0
       cellRect:
@@ -1254,7 +1254,7 @@ ScriptedImporter:
         width: 71
         height: 112
       spriteId: 3d8c6b400fef7dc4ab5214d885dd516c
-    - name: Frame_16
+    - name: Warrior_Purple_Frame_16
       frameIndex: 16
       additiveSortOrder: 0
       cellRect:
@@ -1263,7 +1263,7 @@ ScriptedImporter:
         width: 107
         height: 112
       spriteId: 93a4b9f0be06751409dafdb9e1c08885
-    - name: Frame_17
+    - name: Warrior_Purple_Frame_17
       frameIndex: 17
       additiveSortOrder: 0
       cellRect:
@@ -1272,7 +1272,7 @@ ScriptedImporter:
         width: 107
         height: 92
       spriteId: e74add04cb337bd40bf99d3e6028e828
-    - name: Frame_18
+    - name: Warrior_Purple_Frame_18
       frameIndex: 18
       additiveSortOrder: 0
       cellRect:
@@ -1281,7 +1281,7 @@ ScriptedImporter:
         width: 100
         height: 89
       spriteId: 4e496a9e97941b041aefdf7f8b8246e3
-    - name: Frame_19
+    - name: Warrior_Purple_Frame_19
       frameIndex: 19
       additiveSortOrder: 0
       cellRect:
@@ -1290,7 +1290,7 @@ ScriptedImporter:
         width: 82
         height: 89
       spriteId: caf977da705b81a4490c751d906e58af
-    - name: Frame_20
+    - name: Warrior_Purple_Frame_20
       frameIndex: 20
       additiveSortOrder: 0
       cellRect:
@@ -1299,7 +1299,7 @@ ScriptedImporter:
         width: 84
         height: 89
       spriteId: f94bc2d2a9ab5b14080e9f14610279a5
-    - name: Frame_21
+    - name: Warrior_Purple_Frame_21
       frameIndex: 21
       additiveSortOrder: 0
       cellRect:
@@ -1308,7 +1308,7 @@ ScriptedImporter:
         width: 84
         height: 89
       spriteId: 462db8b56b3ad9c48a95a28c328ac239
-    - name: Frame_22
+    - name: Warrior_Purple_Frame_22
       frameIndex: 22
       additiveSortOrder: 0
       cellRect:
@@ -1317,7 +1317,7 @@ ScriptedImporter:
         width: 123
         height: 100
       spriteId: 250391680a154104cbb8ba8fa2d194fe
-    - name: Frame_23
+    - name: Warrior_Purple_Frame_23
       frameIndex: 23
       additiveSortOrder: 0
       cellRect:
@@ -1326,7 +1326,7 @@ ScriptedImporter:
         width: 122
         height: 94
       spriteId: d8c44e88b4b4c0145ac5edc2279a034c
-    - name: Frame_24
+    - name: Warrior_Purple_Frame_24
       frameIndex: 24
       additiveSortOrder: 0
       cellRect:
@@ -1335,7 +1335,7 @@ ScriptedImporter:
         width: 85
         height: 88
       spriteId: 9cc2d178a1d27154392d000611aa0754
-    - name: Frame_25
+    - name: Warrior_Purple_Frame_25
       frameIndex: 25
       additiveSortOrder: 0
       cellRect:
@@ -1344,7 +1344,7 @@ ScriptedImporter:
         width: 78
         height: 101
       spriteId: 9882337e450d39642a13fea7fd3f7a79
-    - name: Frame_26
+    - name: Warrior_Purple_Frame_26
       frameIndex: 26
       additiveSortOrder: 0
       cellRect:
@@ -1353,7 +1353,7 @@ ScriptedImporter:
         width: 83
         height: 103
       spriteId: 2208358a82bba2346b106049f00f13d3
-    - name: Frame_27
+    - name: Warrior_Purple_Frame_27
       frameIndex: 27
       additiveSortOrder: 0
       cellRect:
@@ -1362,7 +1362,7 @@ ScriptedImporter:
         width: 83
         height: 103
       spriteId: b7502c67d832e5f4091f56eb6e303614
-    - name: Frame_28
+    - name: Warrior_Purple_Frame_28
       frameIndex: 28
       additiveSortOrder: 0
       cellRect:
@@ -1371,7 +1371,7 @@ ScriptedImporter:
         width: 118
         height: 137
       spriteId: 4e4d623dc4a0d874794704f13d2e3458
-    - name: Frame_29
+    - name: Warrior_Purple_Frame_29
       frameIndex: 29
       additiveSortOrder: 0
       cellRect:
@@ -1380,7 +1380,7 @@ ScriptedImporter:
         width: 89
         height: 124
       spriteId: 0a561d6f22c56094eb2929d458afd44a
-    - name: Frame_30
+    - name: Warrior_Purple_Frame_30
       frameIndex: 30
       additiveSortOrder: 0
       cellRect:
@@ -1389,7 +1389,7 @@ ScriptedImporter:
         width: 66
         height: 99
       spriteId: 4bd0f846b05478742a52f44d68633496
-    - name: Frame_31
+    - name: Warrior_Purple_Frame_31
       frameIndex: 31
       additiveSortOrder: 0
       cellRect:
@@ -1398,7 +1398,7 @@ ScriptedImporter:
         width: 80
         height: 93
       spriteId: 41485a68c2e0f0b4994f7c4970f6363f
-    - name: Frame_32
+    - name: Warrior_Purple_Frame_32
       frameIndex: 32
       additiveSortOrder: 0
       cellRect:
@@ -1407,7 +1407,7 @@ ScriptedImporter:
         width: 81
         height: 94
       spriteId: d983e362570a5d045ae142d0ae0030c2
-    - name: Frame_33
+    - name: Warrior_Purple_Frame_33
       frameIndex: 33
       additiveSortOrder: 0
       cellRect:
@@ -1416,7 +1416,7 @@ ScriptedImporter:
         width: 81
         height: 94
       spriteId: 0695a7b5b8c289544afb1a63a4327e3f
-    - name: Frame_34
+    - name: Warrior_Purple_Frame_34
       frameIndex: 34
       additiveSortOrder: 0
       cellRect:
@@ -1425,7 +1425,7 @@ ScriptedImporter:
         width: 146
         height: 117
       spriteId: 25dd03cdc033b3542bbda14a3068b085
-    - name: Frame_35
+    - name: Warrior_Purple_Frame_35
       frameIndex: 35
       additiveSortOrder: 0
       cellRect:
@@ -1434,7 +1434,7 @@ ScriptedImporter:
         width: 116
         height: 117
       spriteId: e932c12c8cf61f34aab4406f22810e4a
-    - name: Frame_36
+    - name: Warrior_Purple_Frame_36
       frameIndex: 36
       additiveSortOrder: 0
       cellRect:
@@ -1443,7 +1443,7 @@ ScriptedImporter:
         width: 99
         height: 94
       spriteId: 9e91310e66a263e47ae7d391ea12986f
-    - name: Frame_37
+    - name: Warrior_Purple_Frame_37
       frameIndex: 37
       additiveSortOrder: 0
       cellRect:
@@ -1452,7 +1452,7 @@ ScriptedImporter:
         width: 118
         height: 99
       spriteId: 460ea702cc3a4b04e97a82b4a59e7c9c
-    - name: Frame_38
+    - name: Warrior_Purple_Frame_38
       frameIndex: 38
       additiveSortOrder: 0
       cellRect:
@@ -1461,7 +1461,7 @@ ScriptedImporter:
         width: 118
         height: 101
       spriteId: 758c7b0e6baa04646934f91d0152b477
-    - name: Frame_39
+    - name: Warrior_Purple_Frame_39
       frameIndex: 39
       additiveSortOrder: 0
       cellRect:
@@ -1470,7 +1470,7 @@ ScriptedImporter:
         width: 118
         height: 101
       spriteId: 84d85815d2e2b794e8bac53e65b8c3e9
-    - name: Frame_40
+    - name: Warrior_Purple_Frame_40
       frameIndex: 40
       additiveSortOrder: 0
       cellRect:
@@ -1479,7 +1479,7 @@ ScriptedImporter:
         width: 135
         height: 107
       spriteId: 35b3a885a7fd14d4583ddb693874eed5
-    - name: Frame_41
+    - name: Warrior_Purple_Frame_41
       frameIndex: 41
       additiveSortOrder: 0
       cellRect:
@@ -1488,7 +1488,7 @@ ScriptedImporter:
         width: 98
         height: 107
       spriteId: 1d4793ab995cb6447a5ac34367107e5b
-    - name: Frame_42
+    - name: Warrior_Purple_Frame_42
       frameIndex: 42
       additiveSortOrder: 0
       cellRect:
@@ -1497,7 +1497,7 @@ ScriptedImporter:
         width: 79
         height: 96
       spriteId: b12652c866e7b374a87e561f7bb471a7
-    - name: Frame_43
+    - name: Warrior_Purple_Frame_43
       frameIndex: 43
       additiveSortOrder: 0
       cellRect:
@@ -1506,7 +1506,7 @@ ScriptedImporter:
         width: 97
         height: 92
       spriteId: 82fb36f5cde0a594faec25892cb318aa
-    - name: Frame_44
+    - name: Warrior_Purple_Frame_44
       frameIndex: 44
       additiveSortOrder: 0
       cellRect:
@@ -1515,7 +1515,7 @@ ScriptedImporter:
         width: 99
         height: 91
       spriteId: 86583d8a5ee27cc4e84fb3113f6d5931
-    - name: Frame_45
+    - name: Warrior_Purple_Frame_45
       frameIndex: 45
       additiveSortOrder: 0
       cellRect:
@@ -1524,7 +1524,7 @@ ScriptedImporter:
         width: 99
         height: 91
       spriteId: 2c8f08a53ce1a7446a228164a8dd8d5e
-    - name: Frame_46
+    - name: Warrior_Purple_Frame_46
       frameIndex: 46
       additiveSortOrder: 0
       cellRect:
@@ -1533,7 +1533,7 @@ ScriptedImporter:
         width: 160
         height: 100
       spriteId: 9d484ac925034d044a64985760abf982
-    - name: Frame_47
+    - name: Warrior_Purple_Frame_47
       frameIndex: 47
       additiveSortOrder: 0
       cellRect:
@@ -1542,7 +1542,7 @@ ScriptedImporter:
         width: 126
         height: 97
       spriteId: 9d0fb1d2dbfe660449dbe9c92a743fc6
-    - name: Frame_48
+    - name: Warrior_Purple_Frame_48
       frameIndex: 48
       additiveSortOrder: 0
       cellRect:

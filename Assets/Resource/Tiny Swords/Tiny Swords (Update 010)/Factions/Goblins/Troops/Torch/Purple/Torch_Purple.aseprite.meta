@@ -810,7 +810,7 @@ ScriptedImporter:
     layerType: 0
     blendMode: 0
     cells:
-    - name: Frame_0
+    - name: Torch_Purple_Frame_0
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
@@ -819,7 +819,7 @@ ScriptedImporter:
         width: 71
         height: 97
       spriteId: e2d56b95949e3914fadd57eaacbf8ec7
-    - name: Frame_1
+    - name: Torch_Purple_Frame_1
       frameIndex: 1
       additiveSortOrder: 0
       cellRect:
@@ -828,7 +828,7 @@ ScriptedImporter:
         width: 77
         height: 97
       spriteId: 5c32b9c338d559246a5057b86c557a3c
-    - name: Frame_2
+    - name: Torch_Purple_Frame_2
       frameIndex: 2
       additiveSortOrder: 0
       cellRect:
@@ -837,7 +837,7 @@ ScriptedImporter:
         width: 75
         height: 98
       spriteId: 245682f93bfdebd45969d0aeb6d50035
-    - name: Frame_3
+    - name: Torch_Purple_Frame_3
       frameIndex: 3
       additiveSortOrder: 0
       cellRect:
@@ -846,7 +846,7 @@ ScriptedImporter:
         width: 74
         height: 79
       spriteId: a9c4edd7f23a31f4f8974f4257e6b1b9
-    - name: Frame_4
+    - name: Torch_Purple_Frame_4
       frameIndex: 4
       additiveSortOrder: 0
       cellRect:
@@ -855,7 +855,7 @@ ScriptedImporter:
         width: 75
         height: 82
       spriteId: b195bcba6344e53468ffc2b7cb77d3d9
-    - name: Frame_5
+    - name: Torch_Purple_Frame_5
       frameIndex: 5
       additiveSortOrder: 0
       cellRect:
@@ -864,7 +864,7 @@ ScriptedImporter:
         width: 74
         height: 83
       spriteId: 01e77958cbdd64744ad960ab1f8b0022
-    - name: Frame_6
+    - name: Torch_Purple_Frame_6
       frameIndex: 6
       additiveSortOrder: 0
       cellRect:
@@ -873,7 +873,7 @@ ScriptedImporter:
         width: 72
         height: 84
       spriteId: 467a4458520d9d244a9bd32b50513008
-    - name: Frame_7
+    - name: Torch_Purple_Frame_7
       frameIndex: 7
       additiveSortOrder: 0
       cellRect:
@@ -882,7 +882,7 @@ ScriptedImporter:
         width: 71
         height: 86
       spriteId: a5e77994cac8ec9429c99e58aaee7395
-    - name: Frame_8
+    - name: Torch_Purple_Frame_8
       frameIndex: 8
       additiveSortOrder: 0
       cellRect:
@@ -891,7 +891,7 @@ ScriptedImporter:
         width: 71
         height: 88
       spriteId: 5dd4ec8761decfd45b62ae2cd0418260
-    - name: Frame_9
+    - name: Torch_Purple_Frame_9
       frameIndex: 9
       additiveSortOrder: 0
       cellRect:
@@ -900,7 +900,7 @@ ScriptedImporter:
         width: 71
         height: 89
       spriteId: 7f9fd8a5ec13a0a45a0608e0222485e3
-    - name: Frame_10
+    - name: Torch_Purple_Frame_10
       frameIndex: 10
       additiveSortOrder: 0
       cellRect:
@@ -909,7 +909,7 @@ ScriptedImporter:
         width: 108
         height: 73
       spriteId: 869185608d92ab04f82f66e63aa3ee82
-    - name: Frame_11
+    - name: Torch_Purple_Frame_11
       frameIndex: 11
       additiveSortOrder: 0
       cellRect:
@@ -918,7 +918,7 @@ ScriptedImporter:
         width: 99
         height: 76
       spriteId: c81e46663a9f519409fc3f0ae90f449f
-    - name: Frame_12
+    - name: Torch_Purple_Frame_12
       frameIndex: 12
       additiveSortOrder: 0
       cellRect:
@@ -927,7 +927,7 @@ ScriptedImporter:
         width: 105
         height: 73
       spriteId: 889c38f648b177a42b1eb8694aa579b5
-    - name: Frame_13
+    - name: Torch_Purple_Frame_13
       frameIndex: 13
       additiveSortOrder: 0
       cellRect:
@@ -936,7 +936,7 @@ ScriptedImporter:
         width: 111
         height: 73
       spriteId: 83267ccb2cf4f084bb32cef4656d50b6
-    - name: Frame_14
+    - name: Torch_Purple_Frame_14
       frameIndex: 14
       additiveSortOrder: 0
       cellRect:
@@ -945,7 +945,7 @@ ScriptedImporter:
         width: 100
         height: 76
       spriteId: 06db862724ae92c4482e9356700dc1cd
-    - name: Frame_15
+    - name: Torch_Purple_Frame_15
       frameIndex: 15
       additiveSortOrder: 0
       cellRect:
@@ -954,7 +954,7 @@ ScriptedImporter:
         width: 105
         height: 73
       spriteId: c4799410ec68f724cbd8d0297d969c4c
-    - name: Frame_16
+    - name: Torch_Purple_Frame_16
       frameIndex: 16
       additiveSortOrder: 0
       cellRect:
@@ -963,7 +963,7 @@ ScriptedImporter:
         width: 80
         height: 96
       spriteId: c6a32fcf109e5574a9ada1c0fbf36277
-    - name: Frame_17
+    - name: Torch_Purple_Frame_17
       frameIndex: 17
       additiveSortOrder: 0
       cellRect:
@@ -972,7 +972,7 @@ ScriptedImporter:
         width: 86
         height: 102
       spriteId: 5cb51d773566ebe49906d025c2d46dde
-    - name: Frame_18
+    - name: Torch_Purple_Frame_18
       frameIndex: 18
       additiveSortOrder: 0
       cellRect:
@@ -981,7 +981,7 @@ ScriptedImporter:
         width: 90
         height: 109
       spriteId: 66d55544288dff2439b52af8cc1a59ab
-    - name: Frame_19
+    - name: Torch_Purple_Frame_19
       frameIndex: 19
       additiveSortOrder: 0
       cellRect:
@@ -990,7 +990,7 @@ ScriptedImporter:
         width: 137
         height: 106
       spriteId: 410f652d1f1c5744fb5bdec0adf5dbf7
-    - name: Frame_20
+    - name: Torch_Purple_Frame_20
       frameIndex: 20
       additiveSortOrder: 0
       cellRect:
@@ -999,7 +999,7 @@ ScriptedImporter:
         width: 135
         height: 107
       spriteId: 6551cf2c9f8c974499b1abdf772f6ef6
-    - name: Frame_21
+    - name: Torch_Purple_Frame_21
       frameIndex: 21
       additiveSortOrder: 0
       cellRect:
@@ -1008,7 +1008,7 @@ ScriptedImporter:
         width: 123
         height: 108
       spriteId: d8e350918dd57ac47ac73b5fd08156e3
-    - name: Frame_22
+    - name: Torch_Purple_Frame_22
       frameIndex: 22
       additiveSortOrder: 0
       cellRect:
@@ -1017,7 +1017,7 @@ ScriptedImporter:
         width: 79
         height: 80
       spriteId: c42404e1db67db8408c79f1cc5a3c0f9
-    - name: Frame_23
+    - name: Torch_Purple_Frame_23
       frameIndex: 23
       additiveSortOrder: 0
       cellRect:
@@ -1026,7 +1026,7 @@ ScriptedImporter:
         width: 86
         height: 84
       spriteId: 1ef3e1a7a3cbbe748b2afc1981233c28
-    - name: Frame_24
+    - name: Torch_Purple_Frame_24
       frameIndex: 24
       additiveSortOrder: 0
       cellRect:
@@ -1035,7 +1035,7 @@ ScriptedImporter:
         width: 89
         height: 88
       spriteId: a8f1d2168ed8cdd448a5c05621bc9cbc
-    - name: Frame_25
+    - name: Torch_Purple_Frame_25
       frameIndex: 25
       additiveSortOrder: 0
       cellRect:
@@ -1044,7 +1044,7 @@ ScriptedImporter:
         width: 116
         height: 113
       spriteId: 1bc1ecf9061a6d8438c20809c17f2ada
-    - name: Frame_26
+    - name: Torch_Purple_Frame_26
       frameIndex: 26
       additiveSortOrder: 0
       cellRect:
@@ -1053,7 +1053,7 @@ ScriptedImporter:
         width: 119
         height: 117
       spriteId: 01ed867dce51db242b904ba2ffc07d4f
-    - name: Frame_27
+    - name: Torch_Purple_Frame_27
       frameIndex: 27
       additiveSortOrder: 0
       cellRect:
@@ -1062,7 +1062,7 @@ ScriptedImporter:
         width: 102
         height: 100
       spriteId: 36199f3bf0b4b4b43b2256710ed2a6d0
-    - name: Frame_28
+    - name: Torch_Purple_Frame_28
       frameIndex: 28
       additiveSortOrder: 0
       cellRect:
@@ -1071,7 +1071,7 @@ ScriptedImporter:
         width: 91
         height: 75
       spriteId: e9a78168d18b9fd4a8550f36f5728726
-    - name: Frame_29
+    - name: Torch_Purple_Frame_29
       frameIndex: 29
       additiveSortOrder: 0
       cellRect:
@@ -1080,7 +1080,7 @@ ScriptedImporter:
         width: 94
         height: 91
       spriteId: b57d58fd70fdf2a47a4b17abc225225a
-    - name: Frame_30
+    - name: Torch_Purple_Frame_30
       frameIndex: 30
       additiveSortOrder: 0
       cellRect:
@@ -1089,7 +1089,7 @@ ScriptedImporter:
         width: 91
         height: 94
       spriteId: 3927f2ced02f652408ca5204495711eb
-    - name: Frame_31
+    - name: Torch_Purple_Frame_31
       frameIndex: 31
       additiveSortOrder: 0
       cellRect:
@@ -1098,7 +1098,7 @@ ScriptedImporter:
         width: 140
         height: 106
       spriteId: 005a80c166c15a041a41401a7f191372
-    - name: Frame_32
+    - name: Torch_Purple_Frame_32
       frameIndex: 32
       additiveSortOrder: 0
       cellRect:
@@ -1107,7 +1107,7 @@ ScriptedImporter:
         width: 137
         height: 105
       spriteId: abb4db65e74a2dd4c8e70e6b2a17d9f1
-    - name: Frame_33
+    - name: Torch_Purple_Frame_33
       frameIndex: 33
       additiveSortOrder: 0
       cellRect:

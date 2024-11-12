@@ -870,7 +870,7 @@ ScriptedImporter:
     layerType: 0
     blendMode: 0
     cells:
-    - name: Frame_0
+    - name: Pawn_Blue_Frame_0
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
@@ -879,7 +879,7 @@ ScriptedImporter:
         width: 58
         height: 59
       spriteId: 28c99488fd99b544b8aa4817371dfacf
-    - name: Frame_1
+    - name: Pawn_Blue_Frame_1
       frameIndex: 1
       additiveSortOrder: 0
       cellRect:
@@ -888,7 +888,7 @@ ScriptedImporter:
         width: 58
         height: 59
       spriteId: 099ecb615f57ce74497121bdde09dd3e
-    - name: Frame_2
+    - name: Pawn_Blue_Frame_2
       frameIndex: 2
       additiveSortOrder: 0
       cellRect:
@@ -897,7 +897,7 @@ ScriptedImporter:
         width: 58
         height: 57
       spriteId: 981fac01928d3e2488f7090d3f8e7c4a
-    - name: Frame_3
+    - name: Pawn_Blue_Frame_3
       frameIndex: 3
       additiveSortOrder: 0
       cellRect:
@@ -906,7 +906,7 @@ ScriptedImporter:
         width: 58
         height: 56
       spriteId: 3f624e37c08ce574c89dc916332c2b78
-    - name: Frame_4
+    - name: Pawn_Blue_Frame_4
       frameIndex: 4
       additiveSortOrder: 0
       cellRect:
@@ -915,7 +915,7 @@ ScriptedImporter:
         width: 58
         height: 57
       spriteId: 577aa9f0b606c9844804497312bf5be6
-    - name: Frame_5
+    - name: Pawn_Blue_Frame_5
       frameIndex: 5
       additiveSortOrder: 0
       cellRect:
@@ -924,7 +924,7 @@ ScriptedImporter:
         width: 58
         height: 58
       spriteId: 6c2a14a35c40a1c4fba880e8df8c7099
-    - name: Frame_6
+    - name: Pawn_Blue_Frame_6
       frameIndex: 6
       additiveSortOrder: 0
       cellRect:
@@ -933,7 +933,7 @@ ScriptedImporter:
         width: 58
         height: 59
       spriteId: 17139fb59e8985e468fe4dc84ba1d559
-    - name: Frame_7
+    - name: Pawn_Blue_Frame_7
       frameIndex: 7
       additiveSortOrder: 0
       cellRect:
@@ -942,7 +942,7 @@ ScriptedImporter:
         width: 58
         height: 60
       spriteId: 1e5b9319b5db7334ca68524ed12a4894
-    - name: Frame_8
+    - name: Pawn_Blue_Frame_8
       frameIndex: 8
       additiveSortOrder: 0
       cellRect:
@@ -951,7 +951,7 @@ ScriptedImporter:
         width: 58
         height: 59
       spriteId: b03d7bc10649cc7428bb9a42fc0b6659
-    - name: Frame_9
+    - name: Pawn_Blue_Frame_9
       frameIndex: 9
       additiveSortOrder: 0
       cellRect:
@@ -960,7 +960,7 @@ ScriptedImporter:
         width: 58
         height: 55
       spriteId: fc5d3f7b39133234f98086c0c74d1807
-    - name: Frame_10
+    - name: Pawn_Blue_Frame_10
       frameIndex: 10
       additiveSortOrder: 0
       cellRect:
@@ -969,7 +969,7 @@ ScriptedImporter:
         width: 62
         height: 60
       spriteId: 81e74bcb12fe1304ab3957fb7004d239
-    - name: Frame_11
+    - name: Pawn_Blue_Frame_11
       frameIndex: 11
       additiveSortOrder: 0
       cellRect:
@@ -978,7 +978,7 @@ ScriptedImporter:
         width: 59
         height: 59
       spriteId: a9c55c85ebf258846bad81e9face22fc
-    - name: Frame_12
+    - name: Pawn_Blue_Frame_12
       frameIndex: 12
       additiveSortOrder: 0
       cellRect:
@@ -987,7 +987,7 @@ ScriptedImporter:
         width: 58
         height: 55
       spriteId: 62b22846daa51fa429449449042cb146
-    - name: Frame_13
+    - name: Pawn_Blue_Frame_13
       frameIndex: 13
       additiveSortOrder: 0
       cellRect:
@@ -996,7 +996,7 @@ ScriptedImporter:
         width: 65
         height: 75
       spriteId: 220625009eb7c3f4ba3a9394c0bfb6d8
-    - name: Frame_14
+    - name: Pawn_Blue_Frame_14
       frameIndex: 14
       additiveSortOrder: 0
       cellRect:
@@ -1005,7 +1005,7 @@ ScriptedImporter:
         width: 65
         height: 77
       spriteId: 7b15cc6fd09b6c444b7e843d5efefbe6
-    - name: Frame_15
+    - name: Pawn_Blue_Frame_15
       frameIndex: 15
       additiveSortOrder: 0
       cellRect:
@@ -1014,7 +1014,7 @@ ScriptedImporter:
         width: 65
         height: 77
       spriteId: 37330978f853363448d0c877a434f64f
-    - name: Frame_16
+    - name: Pawn_Blue_Frame_16
       frameIndex: 16
       additiveSortOrder: 0
       cellRect:
@@ -1023,7 +1023,7 @@ ScriptedImporter:
         width: 92
         height: 66
       spriteId: 88122851d6501da4f9b66c7eec1b0f23
-    - name: Frame_17
+    - name: Pawn_Blue_Frame_17
       frameIndex: 17
       additiveSortOrder: 0
       cellRect:
@@ -1032,7 +1032,7 @@ ScriptedImporter:
         width: 89
         height: 56
       spriteId: 0e7401ac92edb5d46b1a81a351615805
-    - name: Frame_18
+    - name: Pawn_Blue_Frame_18
       frameIndex: 18
       additiveSortOrder: 0
       cellRect:
@@ -1041,7 +1041,7 @@ ScriptedImporter:
         width: 76
         height: 58
       spriteId: 0a6bccffc47f40e4aa5263973b54d958
-    - name: Frame_19
+    - name: Pawn_Blue_Frame_19
       frameIndex: 19
       additiveSortOrder: 0
       cellRect:
@@ -1050,7 +1050,7 @@ ScriptedImporter:
         width: 81
         height: 60
       spriteId: 661323d5324c69d4e80aff9abdab1be6
-    - name: Frame_20
+    - name: Pawn_Blue_Frame_20
       frameIndex: 20
       additiveSortOrder: 0
       cellRect:
@@ -1059,7 +1059,7 @@ ScriptedImporter:
         width: 88
         height: 64
       spriteId: fa5f2e77d32ff5343948f4f829547258
-    - name: Frame_21
+    - name: Pawn_Blue_Frame_21
       frameIndex: 21
       additiveSortOrder: 0
       cellRect:
@@ -1068,7 +1068,7 @@ ScriptedImporter:
         width: 88
         height: 64
       spriteId: 3f23f7da2168986409c139bc3d123e97
-    - name: Frame_22
+    - name: Pawn_Blue_Frame_22
       frameIndex: 22
       additiveSortOrder: 0
       cellRect:
@@ -1077,7 +1077,7 @@ ScriptedImporter:
         width: 110
         height: 54
       spriteId: 333112bc25d3c9d47bb934c66cf50294
-    - name: Frame_23
+    - name: Pawn_Blue_Frame_23
       frameIndex: 23
       additiveSortOrder: 0
       cellRect:
@@ -1086,7 +1086,7 @@ ScriptedImporter:
         width: 99
         height: 56
       spriteId: bd122a87a54848848bef8c55431bec12
-    - name: Frame_24
+    - name: Pawn_Blue_Frame_24
       frameIndex: 24
       additiveSortOrder: 0
       cellRect:
@@ -1095,7 +1095,7 @@ ScriptedImporter:
         width: 69
         height: 66
       spriteId: 316afee9ecaf36840941909d1b9e59fb
-    - name: Frame_25
+    - name: Pawn_Blue_Frame_25
       frameIndex: 25
       additiveSortOrder: 0
       cellRect:
@@ -1104,7 +1104,7 @@ ScriptedImporter:
         width: 58
         height: 60
       spriteId: 0f4a894056c0e284e9e1554c7e3474bc
-    - name: Frame_26
+    - name: Pawn_Blue_Frame_26
       frameIndex: 26
       additiveSortOrder: 0
       cellRect:
@@ -1113,7 +1113,7 @@ ScriptedImporter:
         width: 58
         height: 59
       spriteId: 9d6b9c7de14ebee4cb1c0bacf959cae9
-    - name: Frame_27
+    - name: Pawn_Blue_Frame_27
       frameIndex: 27
       additiveSortOrder: 0
       cellRect:
@@ -1122,7 +1122,7 @@ ScriptedImporter:
         width: 58
         height: 58
       spriteId: 220f737517fc0fb4db8b7072b6d49061
-    - name: Frame_28
+    - name: Pawn_Blue_Frame_28
       frameIndex: 28
       additiveSortOrder: 0
       cellRect:
@@ -1131,7 +1131,7 @@ ScriptedImporter:
         width: 58
         height: 57
       spriteId: a0bd71e2ae3c81c4f93410dece921261
-    - name: Frame_29
+    - name: Pawn_Blue_Frame_29
       frameIndex: 29
       additiveSortOrder: 0
       cellRect:
@@ -1140,7 +1140,7 @@ ScriptedImporter:
         width: 58
         height: 58
       spriteId: f6bc2ae2721ebd443a21d93720107b40
-    - name: Frame_30
+    - name: Pawn_Blue_Frame_30
       frameIndex: 30
       additiveSortOrder: 0
       cellRect:
@@ -1149,7 +1149,7 @@ ScriptedImporter:
         width: 58
         height: 59
       spriteId: 56cf3eec284c13140be3656c72bbf78e
-    - name: Frame_31
+    - name: Pawn_Blue_Frame_31
       frameIndex: 31
       additiveSortOrder: 0
       cellRect:
@@ -1158,7 +1158,7 @@ ScriptedImporter:
         width: 58
         height: 60
       spriteId: 33f0eb032ded2cf4e9c4bcc2b7f311c5
-    - name: Frame_32
+    - name: Pawn_Blue_Frame_32
       frameIndex: 32
       additiveSortOrder: 0
       cellRect:
@@ -1167,7 +1167,7 @@ ScriptedImporter:
         width: 58
         height: 60
       spriteId: 5c48fafdc52cb0242954f6693df7160a
-    - name: Frame_33
+    - name: Pawn_Blue_Frame_33
       frameIndex: 33
       additiveSortOrder: 0
       cellRect:
@@ -1176,7 +1176,7 @@ ScriptedImporter:
         width: 58
         height: 56
       spriteId: 65c516620543ee541b8deb208193599b
-    - name: Frame_34
+    - name: Pawn_Blue_Frame_34
       frameIndex: 34
       additiveSortOrder: 0
       cellRect:
@@ -1185,7 +1185,7 @@ ScriptedImporter:
         width: 58
         height: 60
       spriteId: 9b8c9e964f6c9634a90d7c8e13b6585a
-    - name: Frame_35
+    - name: Pawn_Blue_Frame_35
       frameIndex: 35
       additiveSortOrder: 0
       cellRect:
@@ -1194,7 +1194,7 @@ ScriptedImporter:
         width: 58
         height: 60
       spriteId: 74c3ba41d1dfa2948bbac025bae646a1
-    - name: Frame_36
+    - name: Pawn_Blue_Frame_36
       frameIndex: 36
       additiveSortOrder: 0
       cellRect:
